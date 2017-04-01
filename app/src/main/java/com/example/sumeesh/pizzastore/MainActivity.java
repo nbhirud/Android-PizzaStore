@@ -20,6 +20,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+//Github sync test 1
 public class MainActivity extends AppCompatActivity {
 
     Button addPizza, clearPizza, checkout;
