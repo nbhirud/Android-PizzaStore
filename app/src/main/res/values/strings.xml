@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <string name="checkbox_load_label">Load Previous Order</string>
+    <string name="button_add_label">Add Topping</string>
+    <string name="button_clear_label">Clear Pizza</string>
+    <string name="button_checkout_label">Checkout</string>
+    <string name="pizza_label">Pizza</string>
+    <string name="checkbox_Delivery">Delivery</string>
+    <string name="yourOrder_Label">Your Order</string>
+    <string name="basePrice_Label">Base Price:</string>
+    <string name="baseprice_edit_label">$6.5</string>
+    <string name="topping_label">Toppings:</string>
+    <string name="delivery_label">Delivery:</string>
+    <string name="deliveryPrice" />
+    <string name="toppinglist" />
+    <string name="total_Label"><u>Total</u></string>
+    <string name="total" />
+    <string name="buttonFinish_Label">Finish</string>
+    <string name="MY_PREF">MY_PREF</string>
+    <string-array name="toppings">
+        <item>Bacon</item>
+        <item>Cheese</item>
+        <item>Garlic</item>
+        <item>Green Pepper</item>
+        <item>Mushroom</item>
+        <item>Olives</item>
+        <item>Red Pepper</item>
+        <item>Tomato</item>
+    </string-array>
+</resources>
