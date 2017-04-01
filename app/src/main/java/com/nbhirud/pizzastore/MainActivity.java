@@ -1,4 +1,4 @@
-package com.example.sumeesh.pizzastore;
+package com.nbhirud.pizzastore;
 
 import android.app.Activity;
 import android.content.Context;
@@ -17,6 +17,8 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TableRow;
 import android.widget.Toast;
+
+import com.example.sumeesh.pizzastore.R;
 
 import java.util.ArrayList;
 

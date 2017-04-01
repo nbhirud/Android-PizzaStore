@@ -15,8 +15,6 @@
     <string name="toppinglist" />
     <string name="total_Label"><u>Total</u></string>
     <string name="total" />
-    <string name="buttonFinish_Label">Finish</string>
-    <string name="MY_PREF">MY_PREF</string>
     <string-array name="toppings">
         <item>Bacon</item>
         <item>Cheese</item>

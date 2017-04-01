@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.sumeesh.pizzastore.OrderActivity"
+    tools:context="com.nbhirud.pizzastore.OrderActivity"
     android:focusable="false">
 
     <TextView
@@ -37,7 +37,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/baseprice_edit_label"
-        android:id="@+id/baseprice"
         android:layout_alignTop="@+id/textViewBasePrice"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
