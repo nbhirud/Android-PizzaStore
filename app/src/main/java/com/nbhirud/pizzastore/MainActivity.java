@@ -18,7 +18,7 @@ import android.widget.ProgressBar;
 import android.widget.TableRow;
 import android.widget.Toast;
 
-import com.example.sumeesh.pizzastore.R;
+import com.nbhirud.pizzastore.R;
 
 import java.util.ArrayList;
 

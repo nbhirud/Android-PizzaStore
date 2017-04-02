@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.example.sumeesh.pizzastore.R;
+import com.nbhirud.pizzastore.R;
 import com.nbhirud.pizzastore.MainActivity;
 
 import java.util.ArrayList;
